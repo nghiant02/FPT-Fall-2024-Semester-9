@@ -1,0 +1,91 @@
+Request 1:
+Project Name: Website Revamp System
+Purpose/Objectives: The venture points to redesign and improve the user experience (UX) of a web learning platform. The most objective is to create the stage simpler to utilize, increment client engagement, and optimize the interface for portable devices. By addressing issues like moderate stacking times, confusing route, and obsolete plan, the extend intends to create the stage more available and move forward client satisfaction. This, in turn, will help increment the number of course sign-ups.
+Timeframe: The project is temporary, with a set duration of 6 months. It will begin in January 2024 and is expected to conclude by June 2024.
+Project Milestones:
+- January 2024 – Planning Phase: Define goals, gather requirements, and finalize the design blueprint.
+- February 2024 – Prototype Development: Build wireframes and initial mockups for the platform’s homepage and key learning pages.
+- March 2024 – User Testing & Feedback: Conduct usability testing with a select group of students and instructors. Collect feedback to refine designs.
+- April 2024 – Development Phase: Start coding the new design, including mobile optimization.
+- May 2024 – Quality Assurance & Bug Fixes: Conduct thorough testing for functionality, responsiveness, and security.
+- June 2024 – Launch: Release the new version of the platform to all users. Perform analysis and optimization.
+Project Constraints:
+- Cost: Budget is capped at $50,000, including all development, design, and testing.
+- Resources: The project team consists of 1 project manager, 2 UX/UI designers, 3 developers, and 2 testers.
+- Quality: The new design must be intuitive, mobile-responsive, and accessible, meeting WCAG 2.1 accessibility standards.
+
+Request 2:
+Stakeholder 1: Administrator
+- Power: High power – The Administrator has decision-making authority and budget control.
+- Interest: High interest – The Administrator is invested in the success of the project as it directly impacts the business’s reputation and revenue.
+- Awareness: Fully aware – The Administrator is actively involved in the project and has clear expectations for results.
+- Resistance: Not resistant – The Administrator supports the project as it aligns with company g
+- Strategy: Frequent updates through formal meetings. Provide progress reports, metrics, and projections of ROI.
+Stakeholder 2: Students
+- Power: Low power – Students do not have direct influence over project decisions.
+- Interest: High interest – They are the primary users of the platform and will benefit directly from improved usability.
+- Awareness: Semi-aware – Some students may be unaware of the specific changes, but they will notice improvements post-launch.
+- Resistance: Neutral to slightly resistant – Some users may be hesitant about change, especially if it involves adjusting to a new interface.
+- Strategy: Conduct surveys and feedback sessions during the user testing phase. Use targeted communications (e.g., email or in-app notifications) to inform users about the updates.
+Stakeholder 3: Development Team
+- Power: Medium power – While they do not make executive decisions, their input is critical for the success of the project.
+- Interest: Medium interest – Developers care about the quality of the product but are not as personally invested as the Administrator or students.
+- Awareness: Fully aware – The development team is involved in the daily execution and understands the technical details of the project.
+- Resistance: Neutral – Developers are typically neutral, as they focus on executing the project as instructed, although they may face challenges with tight deadlines.
+- Strategy: Regular communication through sprint meetings, weekly status updates, and team collaboration tools to ensure alignment with goals and timelines.
+
+Request 3: Stakeholder 1: Administrator
+- Information: Project updates, milestones achieved, budget status, user feedback.
+- Purpose: To keep the Administrator informed about the project's progress, timeline, and financial health. Ensures alignment with business goals.
+- Frequency: Bi-weekly.
+- Method/Format: Email summary with charts/graphs; bi-weekly meetings (via Zoom or in-person) to discuss progress and issues.
+- Responsible: Project Manager.
+- Review By: Project Manager and Administrator.
+Stakeholder 2: Students
+- Information: Updates on UX improvements, new features, usability enhancements.
+- Purpose: To inform students about new features and improvements that will make their learning experience smoother and more efficient.
+- Frequency: Monthly.
+- Method/Format: Email newsletter, blog posts, and in-platform notifications.
+- Responsible: Marketing team (for email/newsletters), UX team (for updates on features).
+- Review By: Project Manager, Marketing Manager, UX Lead.
+Stakeholder 3: Development Team
+- Information: Technical updates, milestones, design changes, feedback from testing phases.
+- Purpose: To ensure developers have the latest requirements, understand changes, and can proceed with the implementation in a timely manner.
+- Frequency: Weekly.
+- Method/Format: Team meetings (via Zoom or Slack), project management tool updates (e.g., Jira/Asana).
+- Responsible: Project Manager, Technical Lead.
+Review By: Project Manager, Technical Lead.
+
+Request 4:
+Duration of Each Path:
+- Path 1: A -> B -> C -> D -> E -> F -> G
+Duration: 4 + 2 + 3 + 8 + 5 + 7 + 3 = 32 days
+- Path 2: A -> B -> C -> E -> F -> G
+Duration: 4 + 2 + 3 + 5 + 7 + 3 = 24 days
+- Path 3: A -> B -> D -> F -> H -> I
+Duration: 4 + 2 + 8 + 7 + 8 + 3 = 32 days
+- Path 4: A -> C -> D -> E -> F -> G
+Duration: 4 + 3 + 8 + 5 + 7 + 3 = 30 days
+- Path 5: A -> B -> C -> D -> F -> G
+Duration: 4 + 2 + 3 + 8 + 7 + 3 = 27 days
+- Path 6: A -> B -> H -> I
+Duration: 4 + 2 + 8 + 3 = 17 days
+Critical Path: A -> B -> C -> D -> E -> F -> G or A -> B -> D -> F -> H -> I
+Duration: 32 days
+The critical path is the longest path, which is either A -> B -> C -> D -> E -> F -> G or A -> B -> D -> F -> H -> I, both having a duration of 32 days.
+This path determines the overall project duration. Any delay in activities along the critical path will directly affect the project’s completion time.
+
+Request 5:
+Schedule Performance Index (SPI): SPI= EV/PV = 2.3 million/2.8 million = 0.82
+Cost Performance Index (CPI): CPI = EV/AC= 2.3 million / 2.1 million = 1.10
+Schedule Variance (SV): SV=EV−PV=2.3million−2.8million=−0.5million
+Cost Variance (CV): CV=EV−AC=2.3 million−2.1 million=0.2 million
+Estimate at Completion (EAC): EAC=TotalPlannedCost / CPI=6 million / 1.10=5.45 million
+Estimate to Complete (ETC): ETC=EAC−AC=5.45 million−2.1 million=3.35 million
+Summary of Findings and Recommendations:
+The project is behind schedule, with an SPI of 0.82 and a schedule variance (SV) of -0.5 million dollar, indicating delays. To recover, actions like reallocating resources, prioritizing critical tasks, and increasing working hours may be necessary. On the cost side, the project is performing well, with a CPI of 1.10 and a cost variance (CV) of + 0.2 million dollar, suggesting it is under budget. The project is forecasted to cost 5.45 million dollar, which is below the 6 million dollar budget, but the schedule delay needs to be addressed.
+Recommended Adjustments:
+- Schedule: Accelerate work by reallocating resources, increasing workforce, or streamlining processes.
+- Cost: Continue to monitor costs carefully, but no immediate action is needed to reduce spending, as the project is under budget.
+- Monitoring: Regularly track both schedule and cost performance to ensure the project stays on track and make adjustments as needed.
+=> By addressing the schedule delays while maintaining cost efficiency, the project can potentially be completed under budget, though extra effort will be needed to meet the original timeline.

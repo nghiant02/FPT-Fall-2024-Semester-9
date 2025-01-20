@@ -1,0 +1,91 @@
+Request 1: Project Name: Learning Management System
+Detailed Description:
+Purpose: The project aims to digitize classroom experiences by implementing an integrated learning management system (LMS), equipping classrooms with smart devices, and training educators for blended learning methodologies.
+Unique Objective: To improve student engagement and execution through adaptive learning technologies, guaranteeing availability for all.
+Timeframe:
+The project is temporary, with a timeline of 6 months, starting from January 1, 2024, to June 30, 2024.
+Project Milestones:
+- Kickoff Meeting: January 1, 2024
+- Requirement Analysis Complete: January 31, 2024
+- Prototype Testing: March 15, 2024
+- Implementation Phase Completion: May 15, 2024
+- Final Handover and Evaluation: June 30, 2024
+Key Constraints:
+- Cost: Budget capped at $2 million.
+- Resources: Limited to a team of 15 members, including developers, trainers, and support staff.
+- Quality: Must achieve an adoption rate of 85% among teachers and students within the first month post-implementation.
+
+Request 2:
+1. School Administration (e.g., Principal, Board Members)
+Power: High
+Interest: High
+Engagement: Supportive and Leading
+Reason: They have the authority to approve budgets and set priorities. Their leadership is critical for project success.
+2. Teachers
+Power: Low
+Interest: High
+Engagement: Neutral to Supportive
+Reason: Teachers will be end-users of the LMS. While they have less impact on by and large choices, their buy-in is imperative for selection
+3. Parents
+Power: Low
+Interest: Low to Neutral
+Engagement: Unaware to Neutral
+Reason: They are indirect beneficiaries, concerned mainly with how it impacts student performance.
+Stakeholder Management Strategy:
+- School Administration: Engage them continuously through strategic updates, ensure alignment with their vision, and seek approval at each milestone.
+- Teachers: Conduct workshops to address concerns, highlight benefits, and involve them in prototype testing to increase buy-in.
+- Parents: Use newsletters and open forums to educate them about the project’s benefits to their children and solicit feedback.
+
+Request 3: Stakeholder 1: School Administration
+- Information: Budget updates, milestone progress, quality metrics.
+- Purpose: Ensure alignment, seek approvals.
+- Frequency: Monthly.
+- Method/Format: Reports, presentations.
+- Responsible: Project Manager.
+- Reviewed By: PMO, Board Members.
+Stakeholder 2: Teachers
+- Information: LMS features, training schedules, testing results.
+- Purpose: Build buy-in, address concerns.
+- Frequency: Bi-weekly.
+- Method/Format: Workshops, emails.
+- Responsible: Training Manager.
+- Reviewed By: Project Team.
+Stakeholder 3: Parents
+- Information: Benefits of digital classrooms, progress updates.
+- Purpose: Educate and gain trust.
+- Frequency: Monthly.
+- Method/Format: Newsletters, online Q&A.
+- Responsible: Communications Lead.
+- Reviewed By: School Administration.
+
+Request 4:
+Path 1: Start → A → D → E → End = 17 weeks
+Path 2: Start → A → D → G → End = 15 weeks
+Path 3: Start → B → F → G → End = 12 weeks
+Path 4: Start → C → H → I → End = 14 weeks
+The critical path is Path 1: Start → A → D → E → End.
+Project Duration: 17 weeks.
+- Activity Start: ES (Early Start): 0 Float: 0
+- Activity A: ES (Early Start): 0 Float: 0
+- Activity B: ES (Early Start): 0 Float: 5
+- Activity C: ES (Early Start): 0 Float: 3
+- Activity D: ES (Early Start): 4 Float: 0
+- Activity E: ES (Early Start): 12 Float: 0
+- Activity F: ES (Early Start): 2 Float: 5
+- Activity G: ES (Early Start): 12 Float: 2
+- Activity H: ES (Early Start): 3 Float: 3
+- Activity I: ES (Early Start): 11 Float: 3
+- Activity End: ES (Early Start): 17 Float: 0
+
+Request 5: Cost Performance Index (CPI): CPI = EV/AC = 2.3/2.1 = 1.1
+Schedule Performance Index (SPI): SPI: EV/PV = 2.3/2.8 = 0.82
+Comments:
+Current Status:
+- The project is over-performing on cost with a CPI > 1.
+- The project is behind schedule with an SPI < 1.
+Forecast:
+- Likely to complete under budget if the current trend continues.
+- Schedule delays need immediate attention to avoid further slippage.
+Recommended Adjustment:
+- Allocate additional resources to critical path tasks to accelerate progress.
+- Increase communication frequency to identify bottlenecks early.
